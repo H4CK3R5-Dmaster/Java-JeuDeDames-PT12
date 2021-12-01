@@ -10,7 +10,7 @@
 
 <p>
     <h2 align="right">But du Jeu</h2><br>
-    Mangez tout les pions de votre adverssaires et gagnez la partie sans triche bien sûr ! Les pions à bouger seront marquer tout comme vos futurs déplacements ! Vous aurez le choix de jouer contre un joueur ou une IA ainsi que de choisir le terrain !! ^0^
+    Mangez tout les pions de votre adverssaire et gagnez la partie sans triche bien sûr ! Les pions à bouger seront marquer tout comme vos futurs déplacements ! Vous aurez le choix de jouer contre un joueur ou une IA ainsi que de choisir le terrain !! ^0^
 </p><br>
 <p>
     <h3 align="right">Créateurs et répartition des tâches<h3>
