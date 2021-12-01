@@ -15,8 +15,8 @@
 <p>
     <h3 align="right">Créateurs et répartition des tâches<h3>
     TARHOUNI Mohamed Amine => a totalement fait le code<br>
-    TRAN ALEX => a donné des idées et repéré des erreurs<br>
-    FEKAIER => Gestion des tests + repérage des erreurs et mise en ligne du codes + quelques idées
+    TRAN ALEX => a donné des idées et repéré des erreurs + test du code<br>
+    FEKAIER => Gestion des tests du code + repérage des erreurs et mise en ligne du codes + quelques idées
 </p><br><br>
 
 <h4 align="left">SUR CEUX BONNE GAME !!!!<h4>
