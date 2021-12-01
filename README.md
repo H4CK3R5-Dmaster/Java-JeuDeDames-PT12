@@ -21,4 +21,4 @@
 
 <h4 align="left">SUR CEUX BONNE GAME !!!!<h4>
 
-<img src="https://media.giphy.com/media/UWKQyy8SFjx3IdPdIg/giphy.gif">
+<img align="center"src="https://media.giphy.com/media/UWKQyy8SFjx3IdPdIg/giphy.gif">
